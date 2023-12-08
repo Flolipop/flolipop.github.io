@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "Yay See you Monday";
   gif.src =
-    "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
+    "https://media1.tenor.com/m/LL_dy5f3jysAAAAC/give-food.gif";
 });
 
 noBtn.addEventListener("mouseover", () => {
